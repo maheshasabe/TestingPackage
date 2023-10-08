@@ -3,4 +3,5 @@
 
 public struct MyTestPackage {
     public let myPackagemName = "Test package"
+    public init() {}
 }
